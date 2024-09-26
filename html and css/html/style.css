@@ -1,0 +1,63 @@
+header{
+    background-color:goldenrod;
+    font-style:Arial;
+    display:flex;
+    align-content: center;
+    align-items: center;
+}
+
+video{
+    width: 100%;
+    height: auto;
+}
+
+.text-overlay{
+    position: absolute;
+    top: 40%;
+    left:40%;
+    color: white;
+    font-size: 24px;
+    text-align:left;
+    margin-bottom:75%;
+    color:goldenrod;
+
+}
+
+pre{
+    text-align: center;
+}
+
+main{
+    background-color: black;
+    color: goldenrod;
+}
+
+
+main a{
+    text-decoration: none;
+    color: red;
+}
+
+header a{
+    text-decoration: none;
+    color:green;
+}
+
+footer{
+    background-color: goldenrod;
+    text-align: left;
+    align-content:center;
+
+}
+body{
+    background-color: black;
+    color:goldenrod;
+}
+
+h1{
+    color: black;
+}
+
+Small{
+    color: black;
+}
